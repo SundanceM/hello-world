@@ -1,2 +1,3 @@
 # hello-world
-This is the first program one should learn in C++
+
+I am just starting with programming and I beginning by learning C++.
